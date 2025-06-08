@@ -1,8 +1,11 @@
 # 👋 Hi, We're @uniquesmartsolutions
 
 👨‍💻 We're developing solutions in **smart home IoT devices,** integrating equipment such as lights, thermostat, printer, and other home appliances. All connected via a single dashboard.
+
 👀 We're currently expanding to **automating device configuration and optimizing network performance**.   
+
 📫 How to reach us: **unique.smart.solutions@gmail.com**  
+
 ⚡ Fun fact: **We currently manage vast number IoT nodes across 3 continents**
 
 ---
