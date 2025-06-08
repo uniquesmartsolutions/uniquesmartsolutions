@@ -2,7 +2,7 @@
 
 👨‍💻 We're developing solutions in **IoT device integration, edge computing, and remote management solutions**.  
 👀 We're currently expanding to **automating device fleet configuration and optimizing network performance**.   
-📫 How to reach us: **iot.admin@uniquesmartsolutions.com**  
+📫 How to reach us: **unique.smart.solutions@gmail.com**  
 ⚡ Fun fact: **We currently manage vast number IoT nodes across 3 continents**
 
 ---
