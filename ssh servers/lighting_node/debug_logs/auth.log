@@ -1,0 +1,2 @@
+Jun  1 10:24:11 lighting-system_node sshd[512]: Accepted password for admin from 192.168.1.101 port 2222 ssh2
+Jun  1 10:24:35 lighting-system_node sshd[516]: Failed password for root from 192.168.1.102 port 2222 ssh2
