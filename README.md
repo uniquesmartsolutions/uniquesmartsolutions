@@ -11,8 +11,11 @@
 ---
  
 > This repository contains the web UI source code, internal tools, configuration files, and SSH data used for managing and monitoring field-deployed IoT nodes.
+
 > A demo of the user interface remote IoT dashboard is also demonstrated in this repository.
+
 > Please read the license agreement in LICENSE.txt that includes all the legal obligations and default credentials for initial setup.
+
 > Please do not share this repository externally.
 
 ---
