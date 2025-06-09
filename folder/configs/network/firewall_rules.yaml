@@ -1,0 +1,19 @@
+rules:
+- action: allow
+  destination: iot_devices
+  id: 1
+  port: 22
+  protocol: tcp
+  source: any
+- action: deny
+  destination: iot_devices
+  id: 2
+  port: 123
+  protocol: udp
+  source: guest_network
+- action: allow
+  destination: management
+  id: 3
+  port: 443
+  protocol: tcp
+  source: any

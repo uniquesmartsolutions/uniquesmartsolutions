@@ -1,0 +1,7 @@
+users:
+- role: root
+  username: admin
+- role: operator
+  username: iot_ops
+- role: readonly
+  username: support

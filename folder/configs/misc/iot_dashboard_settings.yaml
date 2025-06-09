@@ -1,0 +1,4 @@
+default_timezone: UTC
+notifications_enabled: true
+refresh_interval_sec: 30
+theme: dark

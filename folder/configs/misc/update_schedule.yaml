@@ -1,0 +1,10 @@
+schedule:
+- day: Sunday
+  device_group: lighting
+  time: 02:00
+- day: Wednesday
+  device_group: sensors
+  time: 03:00
+- day: Friday
+  device_group: controllers
+  time: 01:00

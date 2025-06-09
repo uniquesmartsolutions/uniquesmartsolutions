@@ -1,0 +1,10 @@
+vlans:
+- id: 10
+  name: management
+  subnet: 192.168.10.0/24
+- id: 20
+  name: iot_devices
+  subnet: 192.168.20.0/24
+- id: 30
+  name: guest_network
+  subnet: 192.168.30.0/24

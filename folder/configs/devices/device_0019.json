@@ -1,0 +1,17 @@
+{
+    "device_id": "device-0019",
+    "ip_address": "192.168.61.141",
+    "hostname": "node-0019",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "Admin@2025!",
+    "firmware_version": "v2.7.45",
+    "features": [
+        "lighting_control",
+        "motion_detection",
+        "power_monitoring",
+        "energy_saving_mode"
+    ],
+    "last_seen": "2025-05-13T15:37:32Z",
+    "notes": "Installed in main server room. Firmware update recommended."
+}

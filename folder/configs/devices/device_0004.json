@@ -1,0 +1,16 @@
+{
+    "device_id": "device-0004",
+    "ip_address": "192.168.120.13",
+    "hostname": "node-0004",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "Admin@2025!",
+    "firmware_version": "v4.5.23",
+    "features": [
+        "environment_monitoring",
+        "energy_saving_mode",
+        "status_reporting"
+    ],
+    "last_seen": "2025-05-28T15:37:32Z",
+    "notes": "Installed in building B sector 1. Firmware update recommended."
+}

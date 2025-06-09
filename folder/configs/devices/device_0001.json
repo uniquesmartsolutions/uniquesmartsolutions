@@ -1,0 +1,18 @@
+{
+    "device_id": "device-0001",
+    "ip_address": "192.168.243.238",
+    "hostname": "node-0001",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "admin",
+    "firmware_version": "v3.4.55",
+    "features": [
+        "motion_detection",
+        "status_reporting",
+        "environment_monitoring",
+        "power_monitoring",
+        "energy_saving_mode"
+    ],
+    "last_seen": "2025-05-23T15:37:32Z",
+    "notes": "Installed in factory line 2. Firmware update recommended."
+}

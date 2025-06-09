@@ -1,0 +1,18 @@
+{
+    "device_id": "device-0037",
+    "ip_address": "192.168.188.74",
+    "hostname": "node-0037",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "Admin@2025!",
+    "firmware_version": "v1.0.43",
+    "features": [
+        "status_reporting",
+        "environment_monitoring",
+        "energy_saving_mode",
+        "motion_detection",
+        "power_monitoring"
+    ],
+    "last_seen": "2025-06-09T15:37:32Z",
+    "notes": "Installed in remote site A. Firmware update recommended."
+}

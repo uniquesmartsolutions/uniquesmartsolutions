@@ -1,0 +1,6 @@
+auth_required: true
+endpoints:
+- /api/v1/devices
+- /api/v1/telemetry
+- /api/v1/config
+- /api/v1/alerts

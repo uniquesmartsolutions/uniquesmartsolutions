@@ -1,0 +1,16 @@
+{
+    "device_id": "device-0034",
+    "ip_address": "192.168.40.81",
+    "hostname": "node-0034",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "Admin@2025!",
+    "firmware_version": "v1.6.27",
+    "features": [
+        "status_reporting",
+        "lighting_control",
+        "power_monitoring"
+    ],
+    "last_seen": "2025-05-17T15:37:32Z",
+    "notes": "Installed in warehouse sector 3A. Firmware update recommended."
+}

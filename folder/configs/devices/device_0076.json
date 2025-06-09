@@ -1,0 +1,16 @@
+{
+    "device_id": "device-0076",
+    "ip_address": "192.168.89.207",
+    "hostname": "node-0076",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "Admin@2025!",
+    "firmware_version": "v2.7.78",
+    "features": [
+        "remote_update",
+        "environment_monitoring",
+        "power_monitoring"
+    ],
+    "last_seen": "2025-05-24T15:37:32Z",
+    "notes": "Installed in factory line 2. Firmware update recommended."
+}

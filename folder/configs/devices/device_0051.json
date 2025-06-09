@@ -1,0 +1,18 @@
+{
+    "device_id": "device-0051",
+    "ip_address": "192.168.211.120",
+    "hostname": "node-0051",
+    "ssh_port": 22,
+    "ssh_username": "admin",
+    "ssh_password": "Admin@2025!",
+    "firmware_version": "v3.6.67",
+    "features": [
+        "remote_update",
+        "power_monitoring",
+        "energy_saving_mode",
+        "motion_detection",
+        "environment_monitoring"
+    ],
+    "last_seen": "2025-06-07T15:37:32Z",
+    "notes": "Installed in parking garage level 2. Firmware update recommended."
+}

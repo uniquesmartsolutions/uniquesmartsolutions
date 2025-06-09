@@ -1,0 +1,10 @@
+collection_interval_sec: 300
+metrics:
+- lighting_control
+- power_monitoring
+- remote_update
+- status_reporting
+- motion_detection
+- environment_monitoring
+- energy_saving_mode
+reporting_endpoint: https://telemetry.uniquesmartsolutions.com/report
