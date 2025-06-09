@@ -2,7 +2,7 @@
 
 👨‍💻 We're developing solutions in **smart home IoT devices,** integrating equipment such as lights, thermostat, printer, and other home appliances. All connected via a single dashboard.
 
-👀 We're currently expanding to **automating device configuration and optimizing network performance**.   
+📈 We're currently expanding to **automating device configuration and optimizing network performance**.   
 
 📫 How to reach us: **unique.smart.solutions@gmail.com**  
 
@@ -12,6 +12,7 @@
  
 > This repository contains the web UI source code, internal tools, configuration files, and SSH data used for managing and monitoring field-deployed IoT nodes.
 > A demo of the user interface remote IoT dashboard is also demonstrated in this repository.
+> Please read the license agreement in LICENSE.txt that includes all the legal obligations and default credentials for initial setup.
 > Please do not share this repository externally.
 
 ---
