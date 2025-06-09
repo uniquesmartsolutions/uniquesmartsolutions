@@ -1,0 +1,53 @@
+UNIQUE SMART SOLUTIONS  
+INTERNET OF THINGS (IOT) SMART HOME SOLUTIONS 
+SOFTWARE LICENSE AGREEMENT  
+
+Version: 2.5  
+Effective Date: January 1, 2023
+
+---
+
+IMPORTANT - READ CAREFULLY: This Software License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity, "Licensee") and Unique Smart Solutions ("Licensor") for the Smart Home IoT Solutions, including computer software and associated printed materials ("Software Product").
+
+By installing, copying, or otherwise using the Software Product, you agree to be bound by the terms of this Agreement.
+
+---
+
+1. GRANT OF LICENSE  
+Licensor hereby grants to Licensee a non-transferable, non-exclusive, worldwide license to use the Software Product solely for internal business purposes.  
+
+2. LICENSE RESTRICTIONS  
+Licensee may not distribute, sublicense, rent, lease, or otherwise transfer copies of the Software Product to third parties.
+
+3. DEFAULT ACCESS CREDENTIALS  
+For initial setup, the following default credentials are provided to login to the Web UI Dashboard:
+
+    Username: admin
+    Password: admin123
+
+And the following default credentials for SSH servers:
+
+    Username: admin
+    Password: admin
+
+Licensee is responsible for updating these credentials prior to deployment in any production environment.
+
+4. SUPPORT AND MAINTENANCE  
+Licensor shall provide support and maintenance services in accordance with its standard policies.
+
+5. CONFIDENTIALITY  
+Licensee shall maintain the confidentiality of all credentials and access information associated with the Software Product.
+
+6. WARRANTY DISCLAIMER  
+Licensor disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+
+7. LIMITATION OF LIABILITY  
+In no event shall Licensor be liable for any damages arising out of the use of or inability to use the Software Product.
+
+---
+
+COPYRIGHT © 2025 UNIQUE SMART SOLUTIONS.  
+ALL RIGHTS RESERVED.  
+DO NOT DISTRIBUTE OUTSIDE OF LICENSED ENTITY.
+
+---
