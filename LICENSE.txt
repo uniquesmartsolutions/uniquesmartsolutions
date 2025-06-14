@@ -27,7 +27,7 @@ For initial setup, the following default credentials are provided to login to th
 
 And the following default credentials for SSH servers:
 
-    Username: admin
+    Username: david
     Password: admin
 
 Licensee is responsible for updating these credentials prior to deployment in any production environment.
